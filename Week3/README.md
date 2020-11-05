@@ -2,7 +2,7 @@
 
 This assignment is based on the concepts of **Advanced Python for General Computing & NLP**. These questions cover various concepts related to map, reduce, filter, lambda functions and list comprehension.
 
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)]()
+[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week3/S3_Assignment_Solution.ipynb)
 
 ## Assignment Objective
 
@@ -23,4 +23,4 @@ Solve the below questions using python and given conditions:
 5. Using randint, random.choice and list comprehensions, write an expression that generates 15 random KADDAADDDD number plates, where KA is fixed, D stands for a digit, and A stands for Capital alphabets. 10<DD<99 & 1000<DDDD<9999
 6. Write the above again from scratch where KA can be changed to DL, and 1000/9999 ranges can be provided
 
-**Solution can be found [here]()**
+**Solution can be found [here](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week3/S3_Assignment_Solution.ipynb)**
