@@ -3,9 +3,9 @@
 This assignment is based on the Week4 class and gives some practise on PyTorch
 
 ## Group Members
-Anubhab Panda (pandaanubhav@gmail.com)
-Sachin Dangayach (sachin.dangayach@gmail.com)
-Sairam Subramaniam (sairam.subramaniam@gmail.com)
+* Anubhab Panda (pandaanubhav@gmail.com)
+* Sachin Dangayach (sachin.dangayach@gmail.com)
+* Sairam Subramaniam (sairam.subramaniam@gmail.com)
 
 [![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week4/S4_Assignment_Solution.ipynb)
 
