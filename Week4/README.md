@@ -39,4 +39,4 @@ The model has **3,393,385** trainable parameters
 Final Test Accuracy of the model is **86.57%**
 
 
-**Solution can be found [here](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week4/S4_Assignment_Solution.ipynb)**
+**Solution can be found [here](https://github.com/anubhabPanda/END_Phase1/tree/main/Week4)**
