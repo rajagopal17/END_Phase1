@@ -32,8 +32,11 @@ The model has **3,393,385** trainable parameters
 * Optimizer: Adam
 * LR: 0.01
 * Hidden Size: 256
-* Embedding Dimension: 100
+* Embedding Dimension: 200
 * Dropout: 0.2
+
+
+Final Test Accuracy of the model is **86.57%**
 
 
 **Solution can be found [here](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week4/S4_Assignment_Solution.ipynb)**
