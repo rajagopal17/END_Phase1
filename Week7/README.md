@@ -13,7 +13,7 @@ This assignment is based on the Week7 class and gives some practise on Sentiment
 5. Train your model and try and achieve 60%+ accuracy. Upload your colab file on git with the the training logs
 
 ## Model Summary
-<img src="Images/Model_summary.PNG" width = "400px">
+<img src="Images/Model_summary.PNG" height = "200px">
 
 The model has **1,440,703** trainable parameters
 
@@ -31,4 +31,4 @@ The model has **1,440,703** trainable parameters
 
 Final Test Accuracy of the model is **77.23%**
 
-**Solution can be found [here]()**
+**Solution can be found [here](https://github.com/anubhabPanda/END_Phase1/blob/main/Week7/S7_Assignment_Solution.ipynb)**
