@@ -38,7 +38,7 @@ This assignment is based on the Week8 class and gives some practise on Neural Ma
 ## Part 1 Solution:
 
 ### Model Summary
-<img src="Images/Model_summary.PNG" height = "200px">
+<img src="Images/Model_summary.png" height = "200px">
 
 The model has **19,253,679** trainable parameters
 
