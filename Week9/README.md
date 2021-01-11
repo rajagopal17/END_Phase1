@@ -23,6 +23,11 @@ Train [model 1](https://colab.research.google.com/drive/1oom9GHelvSXoguS2p6HTN1z
 2. Solution to the Dataset using Model 2:
 [NUS Model 2](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week9/NUS_Dataset_Model2.ipynb)
 
-## 3. Cornell Dialogue Dataset
+## 3. Open Book Question Answering Dataset
+1. Solution to the Dataset using Model 1:
+[OpenBookQA Model 1](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week9/OpenBookQA_Model1.ipynb)
 
-## 4. WikiQACorpus Dataset
+2. Solution to the Dataset using Model 2:
+[OpenBookQA Model 2](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week9/OpenBookQA_Model2.ipynb)
+
+## 4. Cornell Dialogue Dataset
