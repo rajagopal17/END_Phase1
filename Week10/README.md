@@ -11,6 +11,7 @@ This assignment is based on the Week10 class and gives some practise on Neural M
 
 ## Solution
 
-* [Model 1]((https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week10/S10_Assignment_PartA.ipynb))
+* [Model 1](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week10/S10_Assignment_PartA.ipynb)
 
-* [Model 2]((https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week10/S10_Assignment_PartB.ipynb))
+* [Model 2](https://nbviewer.jupyter.org/github/anubhabPanda/END_Phase1/blob/main/Week10/S10_Assignment_PartB.ipynb)
+
